@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# VS Code files
+.vscode/
+
+# Windows
+Thumbs.db
